@@ -12,11 +12,11 @@ I build full-stack web applications with .NET and Angular, working across the fr
 
 ## Projects
 
-- **Life Admin**
+- **[Life Admin](https://github.com/Niks2333/LifeAdmin)** - Personal finance, documents, possessions, and home maintenance with .NET and Angular.
 - **[JobHunt](https://github.com/Niks2333/JobHunt)**
-- **Doctor Appointment**
+- **[Doctor Appointment](https://github.com/Niks2333/DoctorAppointment)** - An Angular and ASP.NET Web API portal for doctor availability and appointment booking.
 
-More project details and links coming soon.
+Explore the repositories for source code and setup instructions.
 
 ## Connect with me
 
