@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Nikhil Chaudhari
 
-<!--
-**Niks2333/Niks2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | .NET & Angular | Full-Stack Web Development
 
-Here are some ideas to get you started:
+I build full-stack web applications with .NET and Angular, working across the frontend and backend to turn ideas into working websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- Develop web applications using .NET and Angular.
+- Build and connect frontend interfaces with backend functionality.
+- Practise data structures and algorithms on [LeetCode](https://leetcode.com/u/_niks_23_/).
+
+## Projects
+
+- **Life Admin**
+- **[JobHunt](https://github.com/Niks2333/JobHunt)**
+- **Doctor Appointment**
+
+More project details and links coming soon.
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/nikhilchaudhari2002/) · [LeetCode](https://leetcode.com/u/_niks_23_/) · [GitHub](https://github.com/Niks2333)
