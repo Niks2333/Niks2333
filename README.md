@@ -2,7 +2,19 @@
 
 ### Software Engineer | .NET & Angular | Full-Stack Web Development
 
-I build full-stack web applications with .NET and Angular, working across the frontend and backend to turn ideas into working websites.
+I'm a Full Stack Developer at Rheal Software, building and maintaining client web applications with .NET and Angular. My work includes manufacturing dashboards and insurance workflows across three client engagements.
+
+## Professional experience
+
+**Full Stack Developer · Rheal Software**  
+**May 2025 – Present**
+
+- Develop and maintain client web applications using Angular and .NET, translating requirements into frontend interfaces and backend functionality.
+- Build and enhance dashboards and additional applications for a plastics manufacturing client, delivering ongoing updates across multiple projects.
+- Contribute to an insurance application, including inspector notifications and forms, while working to understand and implement client requirements.
+- Develop invoicing functionality and forms for another insurance client's claims management system.
+
+Client projects are described by industry; their source code is not included in my personal repositories.
 
 ## What I do
 
@@ -10,7 +22,7 @@ I build full-stack web applications with .NET and Angular, working across the fr
 - Build and connect frontend interfaces with backend functionality.
 - Practise data structures and algorithms on [LeetCode](https://leetcode.com/u/_niks_23_/).
 
-## Projects
+## Personal projects
 
 - **[Life Admin](https://github.com/Niks2333/LifeAdmin)** - Personal finance, documents, possessions, and home maintenance with .NET and Angular.
 - **[JobHunt](https://github.com/Niks2333/JobHunt)**
