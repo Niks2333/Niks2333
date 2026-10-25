@@ -10,11 +10,25 @@ I'm a Full Stack Developer at Rheal Software, building and maintaining client we
 **May 2025 – Present**
 
 - Develop and maintain client web applications using Angular and .NET, translating requirements into frontend interfaces and backend functionality.
-- Build and enhance dashboards and additional applications for a plastics manufacturing client, delivering ongoing updates across multiple projects.
-- Contribute to an insurance application, including inspector notifications and forms, while working to understand and implement client requirements.
-- Develop invoicing functionality and forms for another insurance client's claims management system.
+- Deliver ongoing enhancements and maintenance across multiple client projects.
 
-Client projects are described by industry; their source code is not included in my personal repositories.
+### Company projects
+
+**ALUF · Manufacturing dashboard**
+
+- Develop and maintain dashboards for a plastics manufacturing business using Angular and .NET.
+- Build new functionality and support ongoing dashboard and related application enhancements.
+
+**GRIP · Insurance application**
+
+- Contribute to inspector notification functionality and forms.
+- Understand client requirements and translate them into application features.
+
+**CMS · Claims Management System**
+
+- Develop invoicing functionality and forms for an insurance claims management application.
+
+These projects were developed as part of my work at Rheal Software. Company source code is not included in my personal repositories.
 
 ## What I do
 
